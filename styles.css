@@ -1,1 +1,47 @@
+body {
+    margin: 8px;
+    display: block;
+    text-align: center;
+    background:url(./images/wholebackground.jpeg) fixed ;
+}
+#mainHeading {
+    color: red;
+    text-align: center;
+    font-size: 35px;
+    margin: 0px;
+}
+p{
+    padding-inline: 750px;
+    padding-bottom: 120px;
+}
+#Header {
+    background: url('./images/backdropHead.gif') no-repeat;
+    background-size: 62vh;
+    height: 100%;
+    background-position: center 25%;
+
+}
+header{
+    background: url('./images/backbackground.jpg');
+    background-size: 35vw;
+    height: 35vh;
+}
+
+.funParagraph{
+    font-family: 'Cambria', sans-serif;
+    font-size: 25px;
+    color: green;
+}
+
+.sectionTitle{
+    font-family: 'Cambria', sans-serif;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.hyperLink{
+    font-size: 19px;
+    color: white;
+    padding: 5px;
+}
 /* Write your CSS here! */
